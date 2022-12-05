@@ -1,0 +1,7 @@
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\Demowebapp.exe
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\Demowebapp.dll
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\Demowebapp.deps.json
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\Demowebapp.runtimeconfig.json
+D:\Deepa\Study Material\AZ204_New\MyAzureSolution\Demowebapp\obj\Release\net6.0\PubTmp\Out\Demowebapp.pdb
